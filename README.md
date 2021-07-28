@@ -3,14 +3,14 @@
 # Youtube Data Extracter
 A python script to extract popularity wise video data of a youtube channel.
 
-#### Installing the requirements `
+#### Installing the requirements 
 -------------
 *To install all the required libraries from req.txt file: 
 ```console 
 $ pip install -r req.txt 
 ```
 
-How to Use? `
+How to Use? 
 -------------
 * Run main.py file 
 * Enter the channel url
@@ -19,7 +19,7 @@ How to Use? `
 #### Example   
 ```console 
 $ python3 mian.py 
-> https://www.youtube.com/channel/UCAuUUnT6oDeKwE6v1NGQxug
+  https://www.youtube.com/channel/UCAuUUnT6oDeKwE6v1NGQxug
 ```
 * Check results folder for a csv file with data.    
 
